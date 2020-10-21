@@ -9,6 +9,6 @@ Mes passions sont:
 
 # Voici [mon profil Linkedin](https://www.linkedin.com/in/elise-mulumba-4917a91b8/)
 
-![ma photo](C:\Users\Lilly\Desktop\BeCode)
+![ma photo](https://user-images.githubusercontent.com/73020860/96703994-d1729600-1393-11eb-9fc6-052f5e8de8a8.jpg)
 
 
